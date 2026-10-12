@@ -4,7 +4,7 @@
 
 ### `Developer • Builder • Problem Solver`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Building+projects+that+solve+real+problems;Learning+%7C+Building+%7C+Improving+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Building+projects+that+solve+real+problems;Python+%7C+C+%7C+Web+Development;Learning+%7C+Building+%7C+Improving+every+day" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=ShrujalPanat&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" />
 
@@ -24,6 +24,7 @@
 │  ⚡ Exploring software development                           │
 │  🧠 Learning new technologies                                │
 │  🛠️ Building practical projects                              │
+│  🎮 Creating fun things with code                            │
 │  🚀 Always improving                                          │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -34,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode" />
 
 </div>
 
@@ -59,32 +60,34 @@
 
 ---
 
-## 📈 Contribution Activity
+## 🎮 Featured Build — Neon Dash
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrujalPanat&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<a href="https://github.com/ShrujalPanat/weather-app/tree/main/games/neon-dash">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShrujalPanat&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</a>
 
 </div>
+
+> A neon arcade survival game built with **Python + C**, featuring combo scoring, progressive difficulty, particles and Python/C interoperability through `ctypes`.
 
 ---
 
 ## 🚀 What I'm Working On
 
 - Building and improving software projects
-- Strengthening my development fundamentals
-- Exploring new tools, frameworks and workflows
+- Strengthening Python and C fundamentals
+- Exploring systems programming and web development
 - Creating projects that look as good as they work
 
 ---
 
-## ⭐ Featured Project
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/ShrujalPanat/desktop-tutorial">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShrujalPanat&repo=desktop-tutorial&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrujalPanat&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
