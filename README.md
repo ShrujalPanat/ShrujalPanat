@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Shrujal 👋
+# Hey, I'm SHRUJAL PANAT👋
 
 ### `Developer • Builder • Problem Solver`
 
